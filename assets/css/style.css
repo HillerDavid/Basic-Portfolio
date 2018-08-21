@@ -115,3 +115,17 @@ input[type=submit] {
     color: #ffffff;
     font-size: 18px;
 }
+
+.hangman {
+    float: left;
+    margin: 20px 0;
+}
+
+#hangman {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    position: relative;
+    text-align: center;
+    bottom: 80px;
+    padding: 10px 0;
+}
